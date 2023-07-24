@@ -1,7 +1,9 @@
-![logo](https://github.com/Akshi44/Akshi44/blob/main/Anything%20worth%20having%20takes%20time..png)
+![logo]((https://github.com/Akshi44/Akshi44/blob/main/Anything%20worth%20having%20takes%20time.%20(2).png))
 <h1 align="center">Hi 👋, I'm Akshita Agrawal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
 <img src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt="reactnative" width="400" align="right"/>
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshi44&label=Profile%20views&color=0e75b6&style=flat" alt="akshi44" /> </p> -->
 
 - 💬 Ask me about **React**
