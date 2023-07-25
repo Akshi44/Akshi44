@@ -1,4 +1,4 @@
-![logo]((https://github.com/Akshi44/Akshi44/blob/main/Anything%20worth%20having%20takes%20time.%20(2).png))
+![logo](https://github.com/Akshi44/Akshi44/blob/main/Anything%20worth%20having%20takes%20time.%20(2).png)
 <h1 align="center">Hi 👋, I'm Akshita Agrawal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
